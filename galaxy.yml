@@ -1,0 +1,15 @@
+---
+namespace: infosec
+name: agents
+version: 1.0.0
+readme: README.md
+authors:
+  - Ryan
+description: Ansible collection of InfoSec agent installs
+license:
+  - "MIT"
+tags:
+  - infosec 
+  - agents
+repository: https://github.com/geck0r/hello_world_collection/
+issues: https://github.com/geck0r/hello_world_collection/issues

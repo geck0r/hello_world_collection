@@ -1,0 +1,4 @@
+---
+- name: Test Hello World Across Another Repo
+  debug:
+    msg: 'Hello {{ user_name }} you successfully pulled this role from network_services repo'
